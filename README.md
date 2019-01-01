@@ -3,7 +3,7 @@
 This project is all about using plotting an analog clock in MATLAB or octave using matrixes and some functions. This project was initiated as part of applied programming course assessment in freshman year.
 
 # HOW TO RUN THE CODE
-The code can be run in either MATLAB (Download here) or octave (Download here). The output below was obtained after running in MATLAB. 
+The code can be run in either MATLAB [Download here](https://www.mathworks.com/downloads/) or octave [Download here](https://www.gnu.org/software/octave/download.html). The output below was obtained after running in MATLAB. 
 ![Analog clock and calendar](https://github.com/Lormenyo/Clock/blob/master/Screenshot%20(11).png "Analog clock and calendar")
 
 # HOW THE CODE WORKS
