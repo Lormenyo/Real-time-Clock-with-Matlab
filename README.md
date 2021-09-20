@@ -26,9 +26,6 @@ The calendar function returns the calendar of the current month as a 7 x 7 matri
  
 To make the clock come alive, a for loop was used. The range was from 1 to 100000 seconds. The second hand rotates every second whilst the minute and the hour rotates every 60 seconds.
 
-
- 
-
 # FEATURES
 This project has an analog clock that gives the current time and date. It has a ticking sound that accompanies every ticking second. There is also an animation at the center of the analog clock that adds to its aesthetics. In addition to all this is a calendar that displays the days in the current month in a colored background. The current day of the month is highlighted with a different color: red.
 
@@ -37,5 +34,5 @@ This project can be used in schools to teach them how to tell the time and how c
 This project can also be a good challenge to students who want to learn more about matrices and plotting in MATLAB.
 
 # CREDITS
-- Ted Asare (@tedasare)
+- Ted Asare
 - Jeanne Roberts
