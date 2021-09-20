@@ -37,7 +37,5 @@ This project can be used in schools to teach them how to tell the time and how c
 This project can also be a good challenge to students who want to learn more about matrices and plotting in MATLAB.
 
 # CREDITS
-•	Ted Asare-Otchere
-•	Jeanne Roberts
-
-
+- Ted Asare (@tedasare)
+- Jeanne Roberts
